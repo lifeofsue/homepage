@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Klee One', cursive;
+  color: #58595B;
+}
+
+body {
+  background-color: #fafafa;
+  padding: 75px;
+  margin: 10px auto;
+}
+
+#logo {
+  display: block;
+  height: 80px;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+#links {
+  text-align: center;
+  margin: 0px;
+  padding: 17px 0px;
+  border: 0px;
+  word-spacing: 40px;
+}
+
+.main {
+  display: block;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#description { 
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding: 50px 40px 50px 40px;
+}
+
+#photos {
+  display: inline;
+  width: 550px;
+  float: right;
+  margin: 0px 90px 100px 20px;
+  padding: 25px;
+}
+
+#hash {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#place {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+h4 {
+  text-align: center;
+
+}
+
+p {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.sns {
+  text-align: center;
+  word-spacing: 20px;
+}
+
+.mouse:hover {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
